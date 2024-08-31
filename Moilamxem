@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-id="ksport1hd" tvg-name="Sport 1 ( Capture )" tvg-logo="http://iptv.hoangai.vn:8080/images/RT89OX0RjVL94tDP3p-gUUx085ML12uHUi_wjVGhdFjDDNo8kucNHGDDu1a4qRb5tDbJNn9KxNYUjHymFHtXfhmz-ooFfYoL1_Rqmp-kbw1NxoDoJ9BFZt4j6o-67npe.png" group-title="K Plus",Sport 1 ( Capture )
+http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu5RIyqgX-QI6oF_WFjRJZdo/ts
+#EXTINF:-1  tvg-id="kcinehd" tvg-name="Cine" tvg-logo="http://iptv.hoangai.vn:8080/images/N1bxJi1wHTiKMuXynrzKUVUWqoIif97yrOBQiM3qkwLgGFAKumdA_Zi8mbi9u8Or9yk4sA6F81OjD15U3Olx7QySDpQZvSBpg8xSSTQVaqo.png" group-title="K Plus",Cine
+http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEuwSo16FWSkCl2IE50gfJbKY/ts
+#EXTINF:-1  tvg-id="kaction" tvg-name="Action" tvg-logo="http://iptv.hoangai.vn:8080/images/N1bxJi1wHTiKMuXynrzKUVUWqoIif97yrOBQiM3qkwKYFYpFxdc_HtgkBWJGwOPi-03JnPZ8cxuB-IcSH1Nx-3bo1zA5mNRw-mqYZwIdO1XHwPMAgkXqNJNFQ3t1_l3H.jpg" group-title="K Plus",Action
+http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu6A0GKpvasq1gj0uIBwDLgM/ts
+#EXTINF:-1  tvg-id="kkidshd" tvg-name="Kids" tvg-logo="http://iptv.hoangai.vn:8080/images/N1bxJi1wHTiKMuXynrzKUVUWqoIif97yrOBQiM3qkwKYFYpFxdc_HtgkBWJGwOPiV6NB6ZuT3mko6eLHZqU2Pahl-la9zRIqk02vC3xn_XjDAYbazeZGolPGZiEXGAAm.jpg" group-title="K Plus",Kids
+http://iptv.hoangai.vn:8080/play/kTy6VjxmydwkLwyXbCLEu0HmphlgJMJAun8_dgQlu5c/ts
